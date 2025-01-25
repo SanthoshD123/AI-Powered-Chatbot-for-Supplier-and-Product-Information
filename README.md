@@ -10,7 +10,7 @@
   <div style="background-color: #f7fafc; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
     <h2 style="font-size: 1.875rem; font-weight: bold; color: #2d3748; margin-bottom: 10px;">Overview</h2>
     <p style="color: #4a5568; line-height: 1.6;">
-      This project is an AI-powered chatbot designed to interact with a MySQL database containing supplier and product information. The chatbot uses natural language processing (NLP) to understand user queries, retrieves relevant data from the database, and generates responses using an open-source LLM (LLaMA 2). The backend is built with Python (FastAPI) and LangGraph, while the frontend is developed using React and styled with <strong>Tailwind CSS</strong>.
+      This project is an AI-powered chatbot designed to interact with a MySQL database containing supplier and product information. The chatbot uses natural language processing (NLP) to understand user queries, retrieves relevant data from the database, and generates responses using an open-source LLM (LLaMA 2). The backend is built with Python (FastAPI) and LangGraph, while the frontend is developed using React and styled with <strong>Material UI</strong>.
     </p>
   </div>
 
